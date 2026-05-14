@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 2nd year Computer Science Student at JNNCE, Shivamogga
+- 🎓 2nd year Artifical intelligence and Machine learning Student at JNNCE, Shivamogga
 - 🤖 Interested and Working on AI, Backend Development, Full stack, Open Source Contributions, Cyber Security, Mathematical Logic & Problem Solving  
 - 🚀 Building real-world projects  
 - 📚 Learning DSA, Web Development, AI/ML
